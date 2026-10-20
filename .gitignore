@@ -3,3 +3,6 @@
 # Personal Claude Code settings
 .claude/settings.local.json
 .impeccable/config.local.json
+
+# Trader skills write their working data (portfolio, orders, keys config) here
+trader/
