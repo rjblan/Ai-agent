@@ -1,0 +1,5 @@
+# Impeccable engine binary: the launcher downloads it on first run
+.claude/skills/impeccable/scripts/bin/
+# Personal Claude Code settings
+.claude/settings.local.json
+.impeccable/config.local.json
