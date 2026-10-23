@@ -3,3 +3,7 @@
 # Personal Claude Code settings
 .claude/settings.local.json
 .impeccable/config.local.json
+# Impeccable local state and review captures
+.impeccable/hook.cache.json
+.impeccable/review/
+.impeccable/questions/
